@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Autoscar as Software Developer<br>👯 I’m always looking to improve and evolve<br>🌱 Student at Universidade Federal de Uberlândia - UFU<br>💬 Let's get in touch<br>
+🔭 Currently working on Fitlab as Software Developer<br>👯 I’m always looking to improve and evolve<br>🌱 Student at Universidade Federal de Uberlândia - UFU<br>💬 Let's get in touch<br>
 
 
 ## 🌐 Socials:
